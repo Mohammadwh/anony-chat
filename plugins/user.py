@@ -126,7 +126,6 @@ plugin = {
 	"chat_type": "private",
 	"step": 1,
 	"on_chat":False,
-
 	"patterns_message": [
 		"^/start$",
 		"^(/user_)(.*)",

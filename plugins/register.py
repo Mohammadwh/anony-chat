@@ -52,7 +52,6 @@ plugin = {
 	"run": run,
 	"chat_type": "private",
 	"step": 0,
-
 	"patterns_message": [
 		"^/start$",
 		"(.*)"
