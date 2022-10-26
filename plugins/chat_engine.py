@@ -61,6 +61,7 @@ plugin = {
 	"run_callback": run_callback,
 	"chat_type": "private",
 	"step": 1,
+
 	"on_chat":False,
 	"patterns_message": [
 	],

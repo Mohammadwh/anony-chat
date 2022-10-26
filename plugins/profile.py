@@ -51,6 +51,7 @@ async def run_callback(msg,matches,functions,user,bot):
 
 plugin = {
 	"name": "pv",
+
 	"desc": "manage pv bot",
 	"run": run,
 	"run_callback": None,
